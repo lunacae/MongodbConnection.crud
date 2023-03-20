@@ -1,0 +1,12 @@
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.AssemblyInfo.cs
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\bin\Debug\net6.0\Agenda.Framework.deps.json
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\bin\Debug\net6.0\Agenda.Framework.dll
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\bin\Debug\net6.0\Agenda.Framework.pdb
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.dll
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\refint\Agenda.Framework.dll
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\Agenda.Framework.pdb
+C:\Users\devel\Documents\Luna\Agenda.Mongodb\Agenda.Framework\obj\Debug\net6.0\ref\Agenda.Framework.dll
