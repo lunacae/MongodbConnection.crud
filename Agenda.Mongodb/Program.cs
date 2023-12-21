@@ -1,6 +1,6 @@
 using Agenda.Mongodb.Service;
-using Hub2b.MagazineLuiza.Auth.Framework;
-using Hub2bDatabaseApi.Models.Mappers.Images;
+using Framework.Agenda;
+using Agenda.Mappers;
 using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);

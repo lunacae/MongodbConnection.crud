@@ -1,6 +1,6 @@
 ﻿using Agenda.Framework.Model;
 using AutoMapper;
-using Hub2b.MagazineLuiza.Auth.Client.Exceptions;
+using Framework.Agenda.Exceptions;
 using MongoDB.Bson;
 
 namespace Agenda.Mongodb.Service

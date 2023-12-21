@@ -3,7 +3,7 @@ using Agenda.Mongodb.Service;
 using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Driver;
 
-namespace Hub2b.MagazineLuiza.Auth.Framework
+namespace Framework.Agenda
 {
     public static class AddMongoServices
     {

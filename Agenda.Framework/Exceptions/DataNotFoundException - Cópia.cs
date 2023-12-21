@@ -1,4 +1,4 @@
-﻿namespace Hub2b.MagazineLuiza.Auth.Client.Exceptions
+﻿namespace Framework.Agenda.Exceptions
 {
     public class MongodbException : System.Exception
     {

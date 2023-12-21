@@ -1,7 +1,7 @@
 ﻿using Agenda.Framework.Model;
 using AutoMapper;
 
-namespace Hub2bDatabaseApi.Models.Mappers.Images
+namespace Agenda.Mappers
 {
 
     public class BsonAgendaProfile : Profile

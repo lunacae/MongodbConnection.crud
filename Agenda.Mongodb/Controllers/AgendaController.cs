@@ -1,7 +1,7 @@
 using Agenda.Framework.Model;
 using Agenda.Mongodb.Service;
 using Amazon.Runtime.Internal.Util;
-using Hub2b.MagazineLuiza.Auth.Client.Exceptions;
+using Framework.Agenda.Exceptions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
 

@@ -1,6 +1,6 @@
 ﻿using Agenda.Framework.Model;
 using Agenda.Mongodb.Repository;
-using Hub2b.MagazineLuiza.Auth.Client.Exceptions;
+using Framework.Agenda.Exceptions;
 using MongoDB.Bson;
 using MongoDB.Driver;
 
